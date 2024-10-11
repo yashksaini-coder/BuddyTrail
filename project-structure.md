@@ -34,6 +34,7 @@
 ├── package-lock.json
 ├── project-structure.md
 ├── project_structure.txt
+├── reviews.html
 ├── script.js
 ├── star-rating.js
 └── style.css
